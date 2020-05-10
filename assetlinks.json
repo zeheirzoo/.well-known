@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.bustracker",
+    "sha256_cert_fingerprints":
+    ["79:3F:52:01:5C:68:9F:28:7C:50:A3:58:DA:16:71:0C:76:41:78:43:6E:6A:D4:25:81:4B:45:AF:2F:C7:DC:A4"]
+  }
+}]
